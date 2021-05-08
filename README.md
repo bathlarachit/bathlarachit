@@ -7,23 +7,23 @@
 <a href="https://www.instagram.com/a_v_i_s_h_e_k_/">
   <img align="left" alt="Amit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="mailto:navodayanabhishek@gmail.com">
+<a href="mailto:bathlarachit21@gmail.com">
   <img align="left" alt="Avishek's E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </div>
 <br><br>
 
-<h2 align="center">I am currently working as a Developer at WSDC, NITW</h2>
+<h2 align="center">Always ready to make new cool stuff, love to collab ,lets do it together</h2>
 <h2 align="center"> 👨‍💻  Don't forget to view my work through my repositories  👨‍💻</h2>
 
 ## &#x1f4c8; GitHub Stats
 
 
-<a href="https://github.com/av1shek/av1shek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=av1shek&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/bathlarachit/bathlarachit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bathlarachit&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 <a href="https://github.com/bathlarachit/bathlarachit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=av1shek&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathlarachit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <br/>
 
