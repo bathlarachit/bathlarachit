@@ -33,10 +33,10 @@
 </p>
 
 <img align="right" height="200vw" alt="GIF" src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" ><br>
-- 🌱 I’m currently 2nd year student at NIT , Warangal .<br>
+- 🌱 I’m currently final year student at NIT , Warangal .<br>
 - 📖 Coding is my hobby .<br>
 - 🤩 Love competitive programming on codechef and codeforces .
 - 💻 My work also includes web applications based on django as backend framework.<br>
 - 💬 Ask me anythin . Always ready to help u .<br>
-- 📫 Connect with me through linkedin , insta or via mail.<br>
-<b>EAT , SLEEP , CODE , REPEAT</b>
+- 📫 Connect with me through linkedin , or via mail.<br>
+<b>Enjoy Development , CODE , Finance , TECH</b>
